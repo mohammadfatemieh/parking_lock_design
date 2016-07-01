@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\嵌入式开发\TI_BLE4.0\车位锁temp\parking_lock_design\car_in\car_in.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=car_in-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=car_in-slotholes.txt|LayerPairs=gtl,gbl

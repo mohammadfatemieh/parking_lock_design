@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_control|SchDesignator=U_control|FileName=control.SchDoc|SymbolType=Normal|RawFileName=control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_w5500|SchDesignator=U_w5500|FileName=w5500.SchDoc|SymbolType=Normal|RawFileName=w5500.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=main.SchDoc

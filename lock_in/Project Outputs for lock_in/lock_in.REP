@@ -1,0 +1,35 @@
+*************************************************************
+FileName = lock_in.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : lock_in.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : lock_in.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+

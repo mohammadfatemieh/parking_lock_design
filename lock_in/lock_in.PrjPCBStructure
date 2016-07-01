@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_driver|SchDesignator=U_driver|FileName=driver.SchDoc|SymbolType=Normal|RawFileName=driver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_lock_in|SchDesignator=U_lock_in|FileName=lock_in.SchDoc|SymbolType=Normal|RawFileName=lock_in.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=main.SchDoc

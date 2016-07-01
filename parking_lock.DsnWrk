@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=lock_in\lock_in.PrjPCB
+[Project2]
+ProjectPath=car_in\car_in.PrjPCB
+[Project3]
+ProjectPath=inte_lib\Inte.LibPkg
+[Project4]
+ProjectPath=control\control.PrjPCB
+[Project5]
+ProjectPath=interface\interface.PrjPcb

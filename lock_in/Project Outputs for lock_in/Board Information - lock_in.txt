@@ -1,0 +1,195 @@
+Board Information Report
+Filename     : D:\嵌入式开发\TI_BLE4.0\车位锁temp\parking_lock_design\lock_in\lock_in.PcbDoc
+Date         : 2016/6/30
+Time         : 15:45:41
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3533milsx1997mils
+    Components on board, 77
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 175
+    Connections routed, 175
+    Connections remaing, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 180, 0, 306, 0, 0, 6, 0
+    Bottom Layer, 0, 1, 0, 71, 0, 0, 1, 0
+    Mechanical 1, 0, 0, 0, 5, 0, 0, 0, 0
+    Mechanical 2, 0, 0, 0, 4, 0, 0, 0, 0
+    Mechanical 8, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 11, 0, 0, 0, 0
+    Top Overlay, 8, 0, 0, 487, 162, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 2, 0, 0, 7, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 65, 171, 0, 0, 0, 0, 0
+count : 17
+
+Layer Pairs, Vias
+    Top Layer - Bottom Layer, 171
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 40, 0
+count : 1
+
+Plated Hole Size, Pads, Vias
+    0mils, 143, 0
+    12mils, 0, 169
+    14mils, 16, 0
+    20mils, 0, 1
+    25mils, 0, 1
+    30mils, 18, 0
+    35.433mils, 13, 0
+    40mils, 12, 0
+    120mils, 4, 0
+count : 9
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    13mils, 169
+    16mils, 16
+    20mils, 1
+    23.622mils, 13
+    25mils, 1
+    30mils, 18
+    40mils, 12
+    80mils, 4
+count : 8
+
+Mid Layer Annular Ring Size, Count
+    13mils, 169
+    16mils, 16
+    20mils, 1
+    23.622mils, 13
+    25mils, 1
+    30mils, 18
+    40mils, 12
+    80mils, 4
+count : 8
+
+Bottom Layer Annular Ring Size, Count
+    13mils, 169
+    16mils, 16
+    20mils, 1
+    23.622mils, 13
+    25mils, 1
+    30mils, 18
+    40mils, 12
+    80mils, 4
+count : 8
+
+Pad Solder Mask, Count
+    0mils, 17
+    2mils, 40
+    4mils, 187
+    40mils, 2
+count : 4
+
+Pad Paste Mask, Count
+    0mils, 244
+    40mils, 2
+count : 2
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 246
+count : 1
+
+Pad Relief Conductor Width, Count
+    20mils, 246
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 246
+count : 1
+
+Pad Relief Entries, Count
+    4, 246
+count : 1
+
+Via Solder Mask, Count
+    4mils, 171
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 171
+count : 1
+
+Track Width, Count
+    0.1mils, 4
+    3.937mils, 11
+    4mils, 28
+    6mils, 180
+    7.874mils, 47
+    8mils, 45
+    10mils, 455
+    20mils, 87
+    40mils, 12
+    80mils, 20
+    100mils, 2
+count : 11
+
+Arc Line Width, Count
+    6mils, 1
+    9.843mils, 4
+    10mils, 5
+count : 3
+
+Arc Radius, Count
+    3.162mils, 1
+    4.243mils, 1
+    4.921mils, 4
+    9.22mils, 1
+    64.031mils, 2
+    101.71mils, 1
+count : 6
+
+Arc Degrees, Count
+    180, 1
+    360, 9
+count : 2
+
+Text Height, Count
+    15mils, 5
+    20mils, 1
+    60mils, 155
+    100mils, 1
+count : 4
+
+Text Width, Count
+    4mils, 5
+    6mils, 1
+    10mils, 155
+    20mils, 1
+count : 4
+
+Net Track Width, Count
+    53903.45mils, 52
+    53903.482mils, 2
+count : 2
+
+Net Via Size, Count
+    25mils, 54
+count : 1
